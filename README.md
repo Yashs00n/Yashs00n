@@ -1,3 +1,4 @@
+![log](https://github.com/Yashs00n/Yashs00n/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Yashpal Singh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align = "right" width="242" height="148" alt="image" src="https://github.com/user-attachments/assets/e89cb9bd-298d-4883-afdf-643a09054165" />
